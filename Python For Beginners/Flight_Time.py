@@ -1,4 +1,4 @@
-```
+'''
 Flight Time
 
 
@@ -8,6 +8,6 @@ Calculate and output the total flight time in hours.
 
 Hint
 The result should be a float.
-```
+'''
 #your code goes here
 print(7425/550)
